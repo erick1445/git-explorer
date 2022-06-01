@@ -1,5 +1,5 @@
-export function App() {
-throw new Error('deu erro ai bro');
+import './styles/global.scss';
 
+export function App() {
     return <h1>Hello js</h1>
 }
